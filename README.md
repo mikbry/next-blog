@@ -8,7 +8,7 @@ This repository contains example code accompanying a series of blog posts on mig
 
 ## Blog Series
 
-1. [Part I: Configuration and Setup](https://mikbry.com/blog/migrate-jekyll-to-nextjs-part-1)
+1. [Part I: Configuration and Setup](https://mikbry.com/blog/nextjs/tailwind/template/typescript/github/react/starter/shadcn/jekyll/migrate-jekyll-to-modern-stack-starter-part1)
 2. Part II: Designing the Interface (Coming Soon)
 3. Part III: Implementing MDX (Coming Soon)
 4. Part IV: Deployment (Coming Soon)
