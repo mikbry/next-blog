@@ -1,0 +1,17 @@
+{
+    "title": "@mikbry",
+    "author": "Mik Bry 🤖",
+    "email": "xxx",
+    "description": "Innovative CTO & Founder 🚀 • Rust & Web Full-Stack Expert 💻 • AI Video & 3D Enthusiast 🤖 • 25+ Y in Tech 🏆 Team Leadership 👥• Pushing Tech Boundaries ✨\"",
+    "url": "https://mikbry.com",
+    "social_links": {
+      "github": "mikbry",
+      "twitter": "mikbry",
+      "linkedin": "mikbry"
+    },
+    "nav_pages": [
+      "projects",
+      "blog",
+      "about"
+    ]
+  }
